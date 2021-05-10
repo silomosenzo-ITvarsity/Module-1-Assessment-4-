@@ -22,3 +22,9 @@
 #menu a:hover{
        color: #b30000;
 }
+p {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid crimson;
+  padding: 50px;
+  margin: 20px;
